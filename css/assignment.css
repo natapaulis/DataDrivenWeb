@@ -1,0 +1,12 @@
+/* put your css code here */
+
+.crop-img {
+  max-width: 200px;
+  max-width: 100%;
+}
+
+.animals-thumbnail, .large-img {
+  max-width:100%;
+  padding: 5px;
+  text-align: center;
+}
